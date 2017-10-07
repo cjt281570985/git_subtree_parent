@@ -6,3 +6,5 @@ child init
 66666
 77777777
 88 parent
+99c
+1010
